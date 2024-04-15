@@ -5,6 +5,10 @@
     align-items: center;
 }
 
+.inputs {
+    display: flex;
+}
+
 .todo_style .fa-trash {
     width: 50px;
     height: 30px;
